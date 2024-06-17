@@ -15,6 +15,11 @@
         height: max-content;
         margin: 5px auto;
     }
+    main #head1 #head_11{
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-image: linear-gradient(to right,orangered,white,rgb(8, 92, 8));
+    }
     main .container{
         height: 90vh;
         width: 90%;
@@ -93,6 +98,11 @@
         margin: 1vh auto;
         font-size: smaller;
         text-align: center;
+    }
+    main #head1 #head_11{
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-image: linear-gradient(to right,orangered,white,green);
     }
     main .container{
         height: 80vh;
